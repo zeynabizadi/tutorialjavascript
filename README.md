@@ -11,5 +11,5 @@
 # 3.Counter
 [I built a Counter using JavaScript](https://github.com/zeynabizadi/Counter-project)
 # 4.rainbow
-[I built a Rainbow using JavaScript](https://github.com/zeynabizadi/Counter-project)
+[I built a Rainbow using JavaScript](https://github.com/zeynabizadi/rainbow)
  
